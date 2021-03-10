@@ -4,17 +4,17 @@
  <p align="center"> 李斌的 Github 管理平台 </p>
 </p>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats/actions">
-      <img alt="Tests Passing" src="https://github.com/jefferyjob/github-readme-stats/workflows/Test/badge.svg" />
+    <a href="https://github.com/jefferyjob/jefferyjob/actions">
+      <img alt="Tests Passing" src="https://github.com/jefferyjob/jefferyjob/workflows/Test/badge.svg" />
     </a>
-    <a href="https://codecov.io/gh/anuraghazra/github-readme-stats">
-      <img src="https://codecov.io/gh/jefferyjob/github-readme-stats/branch/master/graph/badge.svg" />
+    <a href="https://codecov.io/gh/jefferyjob/jefferyjob">
+      <img src="https://codecov.io/gh/jefferyjob/jefferyjob/branch/master/graph/badge.svg" />
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/jefferyjob/github-readme-stats?color=0088ff" />
+    <a href="https://github.com/jefferyjob/jefferyjob/issues">
+      <img alt="Issues" src="https://img.shields.io/github/issues/jefferyjob/jefferyjob?color=0088ff" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/jefferyjob/github-readme-stats?color=0088ff" />
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/jefferyjob/jefferyjob?color=0088ff" />
     </a>
     <br />
   </p>
