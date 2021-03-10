@@ -1,7 +1,7 @@
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">GitHub Readme Stats</h2>
- <p align="center">在你的 README 中获取动态生成的 GitHub 统计信息！</p>
+ <p align="center"> 李斌的 Github 管理平台 </p>
 </p>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats/actions">
@@ -20,7 +20,6 @@
   </p>
 </p>
 
-
-### 卡片
-
-![info](https://github-readme-stats.vercel.app/api?username=jefferyjob&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
+<p align="center">
+ ![info](https://github-readme-stats.vercel.app/api?username=jefferyjob&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
+</p>
